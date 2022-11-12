@@ -1,0 +1,16 @@
+.place__paragraphs {
+  max-width: 484px;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  box-sizing: border-box;
+  
+}
+
+
+@media (max-width: 321px) {
+  .place__paragraphs {
+  max-width: 288px;
+  justify-self: center;
+  }
+}

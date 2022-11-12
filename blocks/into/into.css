@@ -1,0 +1,31 @@
+.into {
+  display: flex;
+  flex-direction: column;
+  max-width: 77%;
+  margin: 0 auto;
+  
+}
+
+
+@media (max-width: 1025px) {
+  .into {
+  max-width: 90.625%;
+
+  }
+}
+
+@media (max-width: 769px) {
+  .into {
+  max-width: 720px;
+
+  }
+}
+
+
+
+@media (max-width: 321px) {
+  .into {
+  max-width: 288px;
+
+  }
+}
