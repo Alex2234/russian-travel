@@ -4,7 +4,7 @@
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto;
   gap: 48px 40px;
-  
+
 }
 
 .place:last-child {
@@ -25,7 +25,7 @@
   }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 550px) {
   .place {
     grid-template-columns: 1fr;
     gap: 32px;
