@@ -4,6 +4,7 @@
   font-size: 16px;
   font-weight: 400;
   text-decoration: none;
+  cursor: url(../../../images/Pointer.svg) 4 12, auto;
 }
 
 @media (max-width: 690px) {
