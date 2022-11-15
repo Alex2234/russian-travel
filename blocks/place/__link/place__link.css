@@ -8,4 +8,6 @@
   cursor: url(../../../images/Pointer.svg) 4 12, auto;
 }
 
-
+.place__link:hover {
+  opacity: 0.8;
+}
