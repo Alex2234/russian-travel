@@ -7,6 +7,10 @@
   cursor: url(../../../images/Pointer.svg) 4 12, auto;
 }
 
+.footer_link {
+  opacity: 0.8;
+}
+
 @media (max-width: 690px) {
   .footer__link {
   font-size: 24px;
