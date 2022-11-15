@@ -7,7 +7,7 @@
   cursor: url(../../../images/Pointer.svg) 4 12, auto;
 }
 
-.footer_link:hover {
+.footer__link:hover {
   opacity: 0.8;
 }
 
